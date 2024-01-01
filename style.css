@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(25, 126, 87, 0.712);
+    * {background-color: rgba(25, 126, 87, 0.712)
     color: white;
     margin: 0px;
 }
